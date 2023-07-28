@@ -21,7 +21,7 @@ if __name__ == "__main__":
 	datafile_out = "resume_output.txt"
 	with open(datafile_in, "r") as text_file:
 		resume = text_file.read()	
-	question = "write a resume from the following input: " + resume
+	question = "write a resume from the following input: " + resume[:7000]
 	chatgpt_result = ask_chatgpt(question=question, model ='gpt-3.5-turbo', max_tokens=2600)
 	with open(datafile_out, "w") as text_file:
 		text_file.write(chatgpt_result)
