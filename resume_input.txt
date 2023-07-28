@@ -1,0 +1,78 @@
+Summary
+I'm a bit of a generalist with a good ability to dive deeply into a wide variety of areas to solve very specific problems. I don't memorize a lot of syntax in advance because I can easily lookup what I need as I go and once I'm in groove on a new project I can quickly take off. I don't let go of a problem until it is solved, and that is always an iterative process. Some examples would be how to invest in equities to make 28% annual returns, how to break down a large project like egress filtering with fifty sites around the world, a diverse set of devices from servers and network equipment to end user devices, and figure out what is the next achievable step with the greatest impact. And then when I'm done, and I get closure on the project, I push all the details of the project out of my head so I can start working on something else. In this way, I can do the big picture strategic planning, and also dive down into the specifics of implementation, which is an incredibly valuable skill set. But if you test me on my Python or PowerShell syntax on an empty notepad, I can tell you in advance, I'm like a monkey typing Shakespeare, it takes a few tries to get out all of the syntax errors. The design and organization of my code is solid though.
+
+I have been programming and developing business solutions from scratch since I was twelve years old processing telephone surveys and creating custom reports for my father who was a business consultant. From that I gained essential skills for analyzing business processes and the importance of providing reliable solutions and understanding your customer's true needs.
+
+Since then I have worked in legal field as a systems engineer, software developer, and in management at the level of director. I have a passion for building and improving systems whether is developing a case management system flexible and scalable enough to handle millions of documents and dozens of customized practice areas or setting up secure reliable networks and remote access for multinational offices.
+
+I take security very seriously and incorporate a healthy skepticism into everything I build. There is always more that can be done to lock down and layer security, and much of it can be done without spending much money or inconveniencing your user base. What it takes hard work and discipline from IT, not fancy software.
+
+Experience
+Senior Solutions Architect
+Squire Patton Boggs
+Apr 2019 – Present (4 yrs 4 mos)
+Egress Filtering
+-Performed detailed analysis of practice office and colocation network traffic, allowing us to apply appropriate blocking rules for all network infrastructure and servers. 
+-Completely re-wrote firewall rule sets implementing a new naming convention to make the rules more comprehensible
+-Created scripts to help automate the monitoring and changes to public IPs for cloud services
+-Created "Server Baseline Privacy Settings" GPO for all servers to limit default server sharing, greatly reducing server Internet chatter
+
+Loose Data Organization
+-Prepared analysis and proposal for reducing compliance risks associated with file shares. 
+-Organized roughly 20,000 folders across 45 offices into new format structured by associated project
+-Create web based automated folder request system to create and properly secure folders
+-Updated and maintained weekly detailed reporting of all practice office storage usage, growth, client/matter/timekeeper mapping, open/closed matter mapping, stale contents in working folders, and key files of interest
+Developed standardized reporting of departed user processing to ensure compliance with policy.
+
+
+Director of Technology Services
+Squire Patton Boggs
+Mar 2016 – Apr 2019 (3 yrs 2 mos)
+-Technical and functional lead in the transition of legacy Carroll Burdick computer systems to new global platform
+-Combined three legacy email archiving platforms into a single unified global platform servicing 3000+ users in Europe, United States, Asia, Australia, and the Middle East.
+
+Director of Information Systems
+Jul 2015 – Mar 2016 (9 mos)
+-Restructured department to better accommodate service expectations for global infrastructure
+-Completed build out of remote data center for system resiliency and disaster recovery preparation
+-Completed upgrade of remote access two factor authentication, improving both security and ease of use
+-Developed ISO 27001 security protocols
+-Began rollout of new Windows 10 image
+
+
+Manager of Information Systems
+Dec 2008 – Jul 2015 (6 yrs 8 mos)
+-Expanded firm technology to incorporate international offices in Hong Kong, Beijing, and Germany
+-Implemented security to isolate all workstations from cross communication to prevent virus outbreaks by design, restricting all network traffic to clients and servers.
+ -Implemented security to block all servers and network devices from accessing the Internet without two factor authentication override to block command and control hacking by design.
+-Built out eDiscovery in-house processing capabilities using iPro Allegro/Eclipse to reduce eDiscovery costs by a factor of five.
+-Major upgrades of finance system software and server infrastructure
+-Major upgrades of email and email archiving platform software and server infrastructure
+-Rollout of secure Windows 7 image 
+I realized early on that end-user access to email and a web browser was a primary risk to system compromise. With this in mind all workstations were designed so that users could not modify anything outside of their user profile and document workspace, all scripting was disabled, and no executables could be run from places a user could modify. This, combined with profile cleanup routine run at login, led to a very stable and secure environment and it was all done with native Windows tools that have been available since XP.
+
+
+Network Systems Administrator
+Apr 1999 – Dec 2008 (9 yrs 9 mos)
+Nine years' experience on the Microsoft track of supporting Exchange, SQL, and Windows environments. I also have extensive experience with security firewalls and VPNs. Developed a full featured web-based case management system, and several web applications for enhancing time entry and docketing. I specialize in cost effective solutions and reduced recurring expenses. 
+
+Network Administrator
+Jackson Tufts Cole & Black LLP
+Sep 1997 – Apr 1999 (1 yr 8 mos)
+Lead an upgrade to Windows NT 4.0 and Exchange 5.5 in a Netware environment. Developed several in-house applications such as an MCLE credit reporting tool and a Word integrated contact manager.
+
+
+Systems Engineer
+Golden Retreiver LLC
+Jul 1995 – Sep 1997 (2 yrs 3 mos)
+Setup and managed a document imaging production line for a legal services startup. Developed a custom application for coding and searching metadata along with full text search content search.
+
+Education
+Novell Certified Network Engineer
+CNE, Network Engineering
+1995
+
+Logo for University of Oregon
+University of Oregon
+Bachelor of Arts (B.A.), English Literature
+1990 – 1995
